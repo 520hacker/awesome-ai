@@ -1,8 +1,10 @@
 # 系统部署 - AIChat专业版部署到群晖
 
- 购买了nanjiren 的AIChatAdmin 专业版，但是稍微看了下，使用的是sh批处理(https://raw.githubusercontent.com/Nanjiren01/AIChatWeb/main/scripts/setup_pro.sh)的方式安装，habor作为私有docker源，这样方便是方便，也为未来更新版本带来了一些疑虑。这里我特别研究一下群晖是怎么安装的，如果成功，则分享给大家。
+ 充值了nanjiren 的AIChatAdmin 专业版，光荣成为一个全新的韭菜。
 
-根据官方安装脚本，添加habor私有源到群晖; 然后从habor中获取image,然后给几个环境变量就能启动。
+稍微看了下，官方的安装使用的是sh批处理(https://raw.githubusercontent.com/Nanjiren01/AIChatWeb/main/scripts/setup_pro.sh)的方式安装，harbor作为私有docker源，这样方便是方便，也为未来更新版本带来了一些疑虑。这里我特别研究一下群晖是怎么安装的，如果成功，则分享给大家( 你看到了本文，则已经侥幸安装好了)。
+
+根据官方安装脚本，添加harbor私有源到群晖; 然后从harbor中获取image,然后给几个环境变量就能启动。
 
 ```
 # Check if /etc/docker/daemon.json exists and modify it
@@ -61,7 +63,7 @@ sudo cp /docker/dockerd.json /var/packages/Docker/etc/dockerd.json
 
 ## 2、通过SSH命令行pull镜像image
 
-很可惜，虽然我按照攻略努力的浪费了很多时间，但是我最终还是没有在群晖控制台的注册表中刷出来相关的镜像（疑惑脸？？）。在没有办法之下，我放弃了群晖界面，尝试进行ssh直接部署。
+很可惜，虽然我按照攻略努力的浪费了很多时间，但是我最终还是没有在群晖控制台的注册表中刷出来相关的镜像（疑惑脸？？）。在没有办法之下，我放弃了群晖界面，尝试进行ssh直接pull。
 
 首先需要登录harbor
 
@@ -280,7 +282,7 @@ web:
       BASE_URL: http://aichat-admin:8080
 ```
 
-至此手动安装操作全部完成，各端口占用如下：
+至此手动安装操作全部完成，各端口占用如下，感觉除了8080, 其他你都可以随便搞，反正在环境变量中针对改好就行：
 
 | MYSQL   | 3310 |
 | ------- | ---- |
@@ -300,4 +302,5 @@ web:
 
 
 
-未完待续，也有个没啥东西继续写了。
+未完待续，也有可能没啥东西继续写了，明天再说。
+
