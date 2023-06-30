@@ -25,7 +25,7 @@
 | [songquanpeng/one-api](https://github.com/songquanpeng/one-api)               | Y    | Y      | Y    |
 | [mirrors2/opencatd-open](https://github.com/mirrors2/opencatd-open) | Y    | N      | N    |
 
-### 微信&QQ
+### 微信&QQ&其他应用
 
 | 项目                                                         | weB  | DALL-E | MJ   | Telegram | QQ   | wechat | VDB  |
 | ------------------------------------------------------------ | ---- | ------ | ---- | -------- | ---- | ------ | ---- |
