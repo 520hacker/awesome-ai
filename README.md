@@ -25,12 +25,16 @@
 | [songquanpeng/one-api](songquanpeng/one-api)               | Y    | Y      | Y    |
 | [opencatd-open](https://github.com/mirrors2/opencatd-open) | Y    | N      | N    |
 
-### 微信QQ
+### 微信
 
-| 项目                                                         | CHATBox | DALL-E | MJ   | WEMP | wechat | VDB  | MEMBER | pay  | BEAUTY |
-| ------------------------------------------------------------ | ------- | ------ | ---- | ---- | ------ | ---- | ------ | ---- | ------ |
-| [zhayujie/chatgpt-on-wechat](zhayujie/chatgpt-on-wechat)     | N       | Y      | N    | N    | Y      | Y    | N      | N    | 0      |
-| [MidJourney_QQ](https://github.com/1130600015/MidJourney_QQ) | N       | N      | Y    | N    | QQ     | N    | N      | N    | 0      |
+| 项目                                                         | CHATBox | DALL-E | MJ   | Telegram | QQ   | wechat | VDB  | MEMBER | pay  |
+| ------------------------------------------------------------ | ------- | ------ | ---- | -------- | ---- | ------ | ---- | ------ | ---- |
+| [zhayujie/chatgpt-on-wechat](zhayujie/chatgpt-on-wechat)     | N       | Y      | N    | N        | N    | Y      | Y    | N      | N    |
+| [MidJourney_QQ](https://github.com/1130600015/MidJourney_QQ) | N       | N      | Y    | N        | Y    | N      | N    | N      | N    |
+| [QChatGPT](https://github.com/RockChinQ/QChatGPT)            | N       | Y      | N    | N        | Y    | N      | N    | N      | N    |
+| [chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) | Y       | Y      | N    | Y        | Y    | Y      | N    | N      | N    |
+| [Openaibot](https://github.com/LlmKira/Openaibot)            | N       | N      | N    | Y        | Y    | N      | N    | N      | N    |
+| [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | N       | Y      | N    | N        | N    | Y      | N    | N      | N    |
 
 ### Web 项目
 
@@ -67,7 +71,7 @@
 
 ### 客户端
 
-| 项目                              | MAC  | WIN  | IOS  | ANDRIOD |
-| --------------------------------- | ---- | ---- | ---- | ------- |
-| [AMA](https://bytemyth.com/zh-CN) | Y    | Y    | Y    | Y       |
+| 项目                              | MAC  | WIN  | IOS  | ANDRIOD | 开源 |
+| --------------------------------- | ---- | ---- | ---- | ------- | ---- |
+| [AMA](https://bytemyth.com/zh-CN) | Y    | Y    | Y    | Y       | ？   |
 
