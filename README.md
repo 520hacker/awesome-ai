@@ -1,4 +1,4 @@
-# 平民开源AI转发应用总结 
+# 开源AI转发套壳应用对比 
 
 
 目前平民AI分几个流派
@@ -40,6 +40,7 @@
 
 ``` 
 评分标准
+PRO： 不计分，收集到的价格和开源情况。
 DALL-E: DALL-E 绘画支持
 MJ: midjourney support
 MP: 微信公众号对话支持
@@ -54,7 +55,7 @@ Status: 最近更新时间 2023-06-30 ， 距离当前时间每多1天多扣0.1
 | [apeto2/gpt-commercial](https://github.com/apeto2/gpt-commercial) | [599](https://card.apeto.cn/)                                | N      | Y    | Y    | N    | Y      | 3      | 0      | 6     |
 | [langgenius/dify](https://github.com/langgenius/dify)        |                                                              | N      | N    | N    | Y    | Y      | 4      | 0      | 6     |
 | [Nanjiren01/AIChatWeb](https://github.com/Nanjiren01/AIChatWeb) | [闭后](https://github.com/Nanjiren01/AIChatWeb/tree/pro-0.3.2) | N      | N    | N    | N    | Y      | 5      | -0.2   | 5.8   |
-| [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) |                                                              | N      | Y    | N    | N    | N      | 5      | -0.3   | 5.7   |
+| [Licoy/ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) | [QQ](https://github.com/Licoy/ChatGPT-Midjourney-Pro)        | N      | Y    | N    | N    | N      | 5      | -0.3   | 5.7   |
 | [AprNEA/ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) |                                                              | N      | N    | N    | N    | Y      | 5      | -0.9   | 5.1   |
 | [Yidadaa/ChatGPTNextWeb](https://github.com/Yidadaa/ChatGPT-Next-Web) |                                                              | N      | N    | N    | N    | N      | 5      | 0      | 5     |
 | [longyanjiang/chatgpt-nine-ai](https://github.com/longyanjiang/chatgpt-nine-ai) |                                                              | Y      | Y    | N    | N    | Y      | 3      | -1.5   | 4.5   |
@@ -62,7 +63,7 @@ Status: 最近更新时间 2023-06-30 ， 距离当前时间每多1天多扣0.1
 | [AndersonBY/vector-vein](https://github.com/AndersonBY/vector-vein) |                                                              | N      | N    | N    | Y    | N      | 3      | -0.3   | 3.7   |
 | [okisdev/ChatChat](okisdev/ChatChat)                         |                                                              | N      | N    | N    | Y    | N      | 3      | -0.3   | 3.7   |
 | [yangjiakai/lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) |                                                              | N      | N    | N    | N    | Y      | 4      | -2.4   | 3.6   |
-| [79E/ChatGpt-Web](https://github.com/79E/ChatGpt-Web)        |                                                              | Y      | N    | N    | N    | Y      | 2      | -0.4   | 3.6   |
+| [79E/ChatGpt-Web](https://github.com/79E/ChatGpt-Web)        | 闭全                                                         | Y      | N    | N    | N    | Y      | 2      | -0.4   | 3.6   |
 | [putyy/chatgpt](https://github.com/putyy/chatgpt)            |                                                              | N      | N    | N    | N    | Y      | 3      | -0.5   | 3.5   |
 | [EniasCailliau/GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) |                                                              | N      | N    | N    | N    | N      | 4      | -0.7   | 3.3   |
 | [vastxie/ChatGpt-Web](https://github.com/vastxie/ChatGpt-Web) |                                                              | Y      | N    | N    | N    | N      | 3      | -1     | 3     |
