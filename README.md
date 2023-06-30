@@ -27,14 +27,14 @@
 
 ### 微信&QQ
 
-| 项目                                                         | CHATBox | DALL-E | MJ   | Telegram | QQ   | wechat | VDB  | MEMBER | pay  |
-| ------------------------------------------------------------ | ------- | ------ | ---- | -------- | ---- | ------ | ---- | ------ | ---- |
-| [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)     | N       | Y      | N    | N        | N    | Y      | Y    | N      | N    |
-| [1130600015/MidJourney_QQ](https://github.com/1130600015/MidJourney_QQ) | N       | N      | Y    | N        | Y    | N      | N    | N      | N    |
-| [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT)            | N       | Y      | N    | N        | Y    | N      | N    | N      | N    |
-| [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) | Y       | Y      | N    | Y        | Y    | Y      | N    | N      | N    |
-| [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot)            | N       | N      | N    | Y        | Y    | N      | N    | N      | N    |
-| [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | N       | Y      | N    | N        | N    | Y      | N    | N      | N    |
+| 项目                                                         | weB  | DALL-E | MJ   | Telegram | QQ   | wechat | VDB  |
+| ------------------------------------------------------------ | ---- | ------ | ---- | -------- | ---- | ------ | ---- |
+| [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | N    | Y      | N    | N        | N    | Y      | Y    |
+| [1130600015/MidJourney_QQ](https://github.com/1130600015/MidJourney_QQ) | N    | N      | Y    | N        | Y    | N      | N    |
+| [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT)  | N    | Y      | N    | N        | Y    | N      | N    |
+| [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) | Y    | Y      | N    | Y        | Y    | Y      | N    |
+| [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot)    | N    | N      | N    | Y        | Y    | N      | N    |
+| [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | N    | Y      | N    | N        | N    | Y      | N    |
 
 ### Web 
 
@@ -75,11 +75,11 @@ Status: 最近更新时间 2023-06-30 ， 距离当前时间每多1天多扣0.1
 
 ### 重要组件
 
-| 项目                                                         | api  | DALL-E | MJ   | wan load |
-| ------------------------------------------------------------ | ---- | ------ | ---- | -------- |
-| [novicezk/midjourney-proxy](https://github.com/novicezk/midjourney-proxy) | Y    | N      | Y    | N        |
-| [mouxangithub/midjourney](mouxangithub/midjourney)           | Y    | N      | Y    | N        |
-| [goldfishh/chatgpt-tool-hub](goldfishh/chatgpt-tool-hub)     | Y    | N      | N    | Y        |
+| 项目                                                         | api  | MJ   | wan load |
+| ------------------------------------------------------------ | ---- | ---- | -------- |
+| [novicezk/midjourney-proxy](https://github.com/novicezk/midjourney-proxy) | Y    | Y    | N        |
+| [mouxangithub/midjourney](mouxangithub/midjourney)           | Y    | Y    | N        |
+| [goldfishh/chatgpt-tool-hub](goldfishh/chatgpt-tool-hub)     | Y    | N    | Y        |
 
 ### 客户端
 
