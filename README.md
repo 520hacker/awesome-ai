@@ -1,4 +1,4 @@
-# 平民开源AI应用总结 
+# 平民开源AI转发应用总结 
 
 
 目前平民AI分几个流派
@@ -13,9 +13,11 @@
 - 为了卖，可以ChatGPT,可以Midjourney绘画, 可以微信
 - 为了卖，可以ChatGPT,可以Midjourney绘画, 可以微信，可以QQ
 
-于是我制作了以下表格, 需要补充和更新的可以联系我
+于是我制作了以下表格, 个人信息源总有遗漏，需要补充和更新的可以联系我
 
-仅 API  
+请在 http://memos.qiangtu.com/m/1081 留言或者直接 https://t.me/Odinluo 
+
+### 仅 API  
 
 | 项目                                                       | api  | MEMBER | pay  |
 | ---------------------------------------------------------- | ---- | ------ | ---- |
@@ -23,14 +25,14 @@
 | [songquanpeng/one-api](songquanpeng/one-api)               | Y    | Y      | Y    |
 | [opencatd-open](https://github.com/mirrors2/opencatd-open) | Y    | N      | N    |
 
-微信QQ
+### 微信QQ
 
 | 项目                                                         | CHATBox | DALL-E | MJ   | WEMP | wechat | VDB  | MEMBER | pay  | BEAUTY |
 | ------------------------------------------------------------ | ------- | ------ | ---- | ---- | ------ | ---- | ------ | ---- | ------ |
 | [zhayujie/chatgpt-on-wechat](zhayujie/chatgpt-on-wechat)     | N       | Y      | N    | N    | Y      | Y    | N      | N    | 0      |
 | [MidJourney_QQ](https://github.com/1130600015/MidJourney_QQ) | N       | N      | Y    | N    | QQ     | N    | N      | N    | 0      |
 
-Web 项目
+### Web 项目
 
 | 项目                                                         | DALL-E | MJ   | MP   | VDB  | MEMBER | pay  | BEAUTY |
 | ------------------------------------------------------------ | ------ | ---- | ---- | ---- | ------ | ---- | ------ |
@@ -57,9 +59,15 @@ Web 项目
 | [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) | N      | N    | N    | N    | Y      | N    | 4      |
 | [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) | N      | N    | N    | N    | Y      | N    | 5      |
 
-重要组件
+### 重要组件
 
 | 项目                                                   | api  | DALL-E | MJ   |
 | ------------------------------------------------------ | ---- | ------ | ---- |
 | [novicezk/midjourney-proxy](novicezk/midjourney-proxy) | Y    | N      | Y    |
+
+### 客户端
+
+| 项目                              | MAC  | WIN  | IOS  | ANDRIOD |
+| --------------------------------- | ---- | ---- | ---- | ------- |
+| [AMA](https://bytemyth.com/zh-CN) | Y    | Y    | Y    | Y       |
 
