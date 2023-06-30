@@ -75,10 +75,11 @@ Status: 最近更新时间 2023-06-30 ， 距离当前时间每多1天多扣0.1
 
 ### 重要组件
 
-| 项目                                                         | api  | DALL-E | MJ   |
-| ------------------------------------------------------------ | ---- | ------ | ---- |
-| [novicezk/midjourney-proxy](https://github.com/novicezk/midjourney-proxy) | Y    | N      | Y    |
-| [goldfishh/chatgpt-tool-hub](goldfishh/chatgpt-tool-hub)     | Y    |        |      |
+| 项目                                                         | api  | DALL-E | MJ   | wan load |
+| ------------------------------------------------------------ | ---- | ------ | ---- | -------- |
+| [novicezk/midjourney-proxy](https://github.com/novicezk/midjourney-proxy) | Y    | N      | Y    | N        |
+| [mouxangithub/midjourney](mouxangithub/midjourney)           | Y    | N      | Y    | N        |
+| [goldfishh/chatgpt-tool-hub](goldfishh/chatgpt-tool-hub)     | Y    | N      | N    | Y        |
 
 ### 客户端
 
