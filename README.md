@@ -90,4 +90,19 @@ Status: 最近更新时间 2023-06-30 ， 距离当前时间每多1天多扣0.1
 | [AMA](https://bytemyth.com/zh-CN)                            | Y    | Y    | Y    | Y       | ？   |
 | [lpdswing/GPTFusion](lpdswing/GPTFusion)                     | Y    | Y    | N    | N       | Y    |
 | [1595901624/gpt-aggregated-edition](1595901624/gpt-aggregated-edition) | Y    | Y    | N    | N       | Y    |
+| [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)    | Y    | Y    | N    | N       | Y    |
+
+### 浏览器插件
+
+| 项目                                       | Chrome | Edge | SAFARI | FIREFOX | MOBILE | 鸿蒙 |
+| ------------------------------------------ | ------ | ---- | ------ | ------- | ------ | ---- |
+| [xcanwin/KeepChatGPT](xcanwin/KeepChatGPT) | Y      | Y    | Y      | Y       | Y      | Y    |
+
+### 其他链接
+
+- 号贩子清单
+
+
+
+
 
