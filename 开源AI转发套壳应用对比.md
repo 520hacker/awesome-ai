@@ -25,17 +25,6 @@
 | [songquanpeng/one-api](https://github.com/songquanpeng/one-api) | Y    | Y      | Y    |
 | [mirrors2/opencatd-open](https://github.com/mirrors2/opencatd-open) | Y    | N      | N    |
 
-### 微信&QQ&其他应用
-
-| 项目                                                         | weB  | DALL-E | MJ   | Telegram | QQ   | wechat | VDB  |
-| ------------------------------------------------------------ | ---- | ------ | ---- | -------- | ---- | ------ | ---- |
-| [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat) | N    | Y      | N    | N        | N    | Y      | Y    |
-| [1130600015/MidJourney_QQ](https://github.com/1130600015/MidJourney_QQ) | N    | N      | Y    | N        | Y    | N      | N    |
-| [RockChinQ/QChatGPT](https://github.com/RockChinQ/QChatGPT)  | N    | Y      | N    | N        | Y    | N      | N    |
-| [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot) | Y    | Y      | N    | Y        | Y    | Y      | N    |
-| [LlmKira/Openaibot](https://github.com/LlmKira/Openaibot)    | N    | N      | N    | Y        | Y    | N      | N    |
-| [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | N    | Y      | N    | N        | N    | Y      | N    |
-
 ### Web 
 
 ``` 
