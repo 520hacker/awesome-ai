@@ -40,7 +40,7 @@
 ## 内容导览
 
 - [开源AI转发套壳应用列表](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E5%BC%80%E6%BA%90AI%E8%BD%AC%E5%8F%91%E5%A5%97%E5%A3%B3%E5%BA%94%E7%94%A8%E5%AF%B9%E6%AF%94.md)  
-- 开源AI转发套壳转发微信QQ等列表
+- [开源AI转发套壳转发微信QQ等列表](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E5%BE%AE%E4%BF%A1ChatGPT.md)
 - [开源AI转发套壳应用部署列表](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2.md)
 - 闭源AI转发套壳应用
 - 知(韭)识(菜)星球列表
@@ -50,7 +50,7 @@
 
 
 
-类似信息收集链接
+### 参考信息
 
 - [Chatgpt商业版汇总及变现](https://github.com/garyvalue/chatgpt-business)
 
