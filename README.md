@@ -8,7 +8,7 @@
 
 ## 相关内容列表
 
-- 开源AI转发套壳应用  
+- [开源AI转发套壳应用](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E5%BC%80%E6%BA%90AI%E8%BD%AC%E5%8F%91%E5%A5%97%E5%A3%B3%E5%BA%94%E7%94%A8%E5%AF%B9%E6%AF%94.md)  
 - [开源AI转发套壳应用部署](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2.md)
 - [号贩子清单](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E5%8F%B7%E8%B4%A9%E5%AD%90.md)
 
