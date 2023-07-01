@@ -57,8 +57,8 @@
 
 #### 其他链接
 
-- [系统部署 | AIChat专业版一键部署教程](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E7%B3%BB%E7%BB%9F%E9%83%A8%E7%BD%B2%20AIChat%E4%B8%93%E4%B8%9A%E7%89%88%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B.md)
-- [系统部署 | AIChat专业版部署到群晖](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E7%B3%BB%E7%BB%9F%E9%83%A8%E7%BD%B2%20AIChat%E4%B8%93%E4%B8%9A%E7%89%88%E9%83%A8%E7%BD%B2%E5%88%B0%E7%BE%A4%E6%99%96.md)
+- [系统部署 | AIChat专业版一键部署教程](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/AIChatWeb/%E7%B3%BB%E7%BB%9F%E9%83%A8%E7%BD%B2%20AIChat%E4%B8%93%E4%B8%9A%E7%89%88%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B.md)
+- [系统部署 | AIChat专业版部署到群晖](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/AIChatWeb/%E7%B3%BB%E7%BB%9F%E9%83%A8%E7%BD%B2%20AIChat%E4%B8%93%E4%B8%9A%E7%89%88%E9%83%A8%E7%BD%B2%E5%88%B0%E7%BE%A4%E6%99%96.md)
 
 
 
