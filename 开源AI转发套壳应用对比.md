@@ -81,29 +81,38 @@ Status: 最近更新时间 2023-06-30 ， 距离当前时间每多1天多扣0.1
 ```
 ### Web 项目
 
-| 项目                                                         | 作者           | DALL-E | MJ   | MP   | VDB  | MEMBER | BEAUTY | STATUS | SCORE |
-| ------------------------------------------------------------ | -------------- | ------ | ---- | ---- | ---- | ------ | ------ | ------ | ----- |
-| [gpt-commercial](https://github.com/apeto2/gpt-commercial)   | apeto2         | N      | Y    | Y    | N    | Y      | 3      | 0      | 6     |
-| [dify](https://github.com/langgenius/dify)                   | langgenius     | N      | N    | N    | Y    | Y      | 4      | 0      | 6     |
-| [AIChatWeb](https://github.com/Nanjiren01/AIChatWeb)         | Nanjiren01     | N      | N    | N    | N    | Y      | 5      | -0.2   | 5.8   |
-| [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) | Licoy          | N      | Y    | N    | N    | N      | 5      | -0.3   | 5.7   |
-| [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) | AprilNEA       | N      | N    | N    | N    | Y      | 5      | -0.9   | 5.1   |
-| [ChatGPT-NextWeb](https://github.com/Yidadaa/ChatGPT-Next-Web) | Yidadaa        | N      | N    | N    | N    | N      | 5      | 0      | 5     |
-| [chatgpt-nine-ai](https://github.com/longyanjiang/chatgpt-nine-ai) | longyanjiang   | Y      | Y    | N    | N    | Y      | 3      | -1.5   | 4.5   |
-| [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) | moeakwak       | N      | N    | N    | N    | Y      | 4      | -0.9   | 4.1   |
-| [vector-vein](https://github.com/AndersonBY/vector-vein)     | AndersonBY     | N      | N    | N    | Y    | N      | 3      | -0.3   | 3.7   |
-| [ChatChat](okisdev/ChatChat)                                 | okisdev        | N      | N    | N    | Y    | N      | 3      | -0.3   | 3.7   |
-| [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) | yangjiakai     | N      | N    | N    | N    | Y      | 4      | -2.4   | 3.6   |
-| [ChatGpt-Web](https://github.com/79E/ChatGpt-Web)            | 79E            | Y      | N    | N    | N    | Y      | 2      | -0.4   | 3.6   |
-| [chatgpt](https://github.com/putyy/chatgpt)                  | putyy          | N      | N    | N    | N    | Y      | 3      | -0.5   | 3.5   |
-| [GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) | EniasCailliau  | N      | N    | N    | N    | N      | 4      | -0.7   | 3.3   |
-| [ChatGpt-Web](https://github.com/vastxie/ChatGpt-Web)        | vastxie        | Y      | N    | N    | N    | N      | 3      | -1     | 3     |
-| [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)     | Chanzhaoyu     | N      | N    | N    | N    | N      | 3      | -0.4   | 2.6   |
-| [pandora](https://github.com/pengzhile/pandora)              | pengzhile      | N      | N    | N    | N    | N      | 3      | -0.4   | 2.6   |
-| [chatgpt-mirror-server](https://github.com/xyhelper/chatgpt-mirror-server) | xyhelper       | N      | N    | N    | N    | N      | 3      | -0.5   | 2.5   |
-| [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) | adams549659584 | Y      | N    | N    | N    | N      | 4      | -2.8   | 2.2   |
-| [gptlink](https://github.com/gptlink/gptlink)                | gptlink        | N      | N    | N    | N    | Y      | 2      | -1     | 2     |
-| [appset](https://github.com/qnmlgbd250/appset)               | qnmlgbd250     | N      | N    | N    | N    | N      | 2      | 0      | 2     |
+| PRoject                                                      | 作者           | DA   | SD   | MJ   | MP   | VDB  | MEMBER | BEAUTY | STATUS | SCORE |
+| ------------------------------------------------------------ | -------------- | ---- | ---- | ---- | ---- | ---- | ------ | ------ | ------ | ----- |
+| [gpt-commercial](https://github.com/apeto2/gpt-commercial)   | apeto2         | N    | N    | Y    | Y    | N    | Y      | 3      | 0      | 6     |
+| [dify](https://github.com/langgenius/dify)                   | langgenius     | N    | N    | N    | N    | Y    | Y      | 4      | 0      | 6     |
+| [AIChatWeb](https://github.com/Nanjiren01/AIChatWeb)         | Nanjiren01     | N    | N    | N    | N    | N    | Y      | 5      | -0.2   | 5.8   |
+| [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney) | Licoy          | N    | N    | Y    | N    | N    | N      | 5      | -0.3   | 5.7   |
+| [GPT-WEB-JAVA](https://github.com/a616567126/GPT-WEB-JAVA)   | a616567126     | Y    | Y    | Y    | N    | N    | Y      | 3      | -0.5   | 5.5   |
+| [ChatGPT-Admin-Web](https://github.com/AprilNEA/ChatGPT-Admin-Web) | AprilNEA       | N    | N    | N    | N    | N    | Y      | 5      | -0.9   | 5.1   |
+| [ChatGPT-NextWeb](https://github.com/Yidadaa/ChatGPT-Next-Web) | Yidadaa        | N    | N    | N    | N    | N    | N      | 5      | 0      | 5     |
+| [FastGPT](https://github.com/labring/FastGPT/)               | labring        | N    | N    | N    | N    | Y    | Y      | 3      | 0      | 5     |
+| [chatgpt-nine-ai](https://github.com/longyanjiang/chatgpt-nine-ai) | longyanjiang   | Y    | N    | Y    | N    | N    | Y      | 3      | -1.5   | 4.5   |
+| [chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share) | moeakwak       | N    | N    | N    | N    | N    | Y      | 4      | -0.9   | 4.1   |
+| [vector-vein](https://github.com/AndersonBY/vector-vein)     | AndersonBY     | N    | N    | N    | N    | Y    | N      | 3      | -0.3   | 3.7   |
+| [ChatChat](okisdev/ChatChat)                                 | okisdev        | N    | N    | N    | N    | Y    | N      | 3      | -0.3   | 3.7   |
+| [lux-admin-vuetify3](https://github.com/yangjiakai/lux-admin-vuetify3) | yangjiakai     | N    | N    | N    | N    | N    | Y      | 4      | -2.4   | 3.6   |
+| [ChatGpt-Web](https://github.com/79E/ChatGpt-Web)            | 79E            | Y    | N    | N    | N    | N    | Y      | 2      | -0.4   | 3.6   |
+| [chatgpt](https://github.com/putyy/chatgpt)                  | putyy          | N    | N    | N    | N    | N    | Y      | 3      | -0.5   | 3.5   |
+| [chatgpt-web](https://github.com/Kerwin1202/chatgpt-web)     | Kerwin1202     | N    | N    | N    | N    | N    | Y      | 3      | -0.5   | 3.5   |
+| [GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) | EniasCailliau  | N    | N    | N    | N    | N    | N      | 4      | -0.7   | 3.3   |
+| [wordpress-nextjs-chatgpt](https://github.com/leslietu123/wordpress-nextjs-chatgpt) | leslietu123    | N    | N    | Y    | N    | N    | Y      | 4      | -1.8   | 3.2   |
+| [ChatGpt-Web](https://github.com/vastxie/ChatGpt-Web)        | vastxie        | Y    | N    | N    | N    | N    | N      | 3      | -1     | 3     |
+| [chatgpt-admin-ui](https://github.com/shican1234/chatgpt-admin-ui) | shican1234     | Y    | N    | N    | N    | N    | Y      | 2      | -1     | 3     |
+| [chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus) | yangjian102621 | N    | N    | N    | N    | N    | Y      | 2      | 0      | 3     |
+| [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)     | Chanzhaoyu     | N    | N    | N    | N    | N    | N      | 3      | -0.4   | 2.6   |
+| [pandora](https://github.com/pengzhile/pandora)              | pengzhile      | N    | N    | N    | N    | N    | N      | 3      | -0.4   | 2.6   |
+| [chatgpt-mirror-server](https://github.com/xyhelper/chatgpt-mirror-server) | xyhelper       | N    | N    | N    | N    | N    | N      | 3      | -0.5   | 2.5   |
+| [chatgpt-web-java](https://github.com/hncboy/chatgpt-web-java) | hncboy         | N    | N    | N    | N    | N    | Y      | 3      | -1.5   | 2.5   |
+| [yao-knowledge](https://github.com/YaoApp/yao-knowledge)     | YaoApp         | N    | N    | N    | N    | Y    | Y      | 2      | -1.7   | 2.3   |
+| [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) | adams549659584 | Y    | N    | N    | N    | N    | N      | 4      | -2.8   | 2.2   |
+| [gptlink](https://github.com/gptlink/gptlink)                | gptlink        | N    | N    | N    | N    | N    | Y      | 2      | -1     | 2     |
+| [appset](https://github.com/qnmlgbd250/appset)               | qnmlgbd250     | N    | N    | N    | N    | N    | N      | 2      | 0      | 2     |
+| [muchat-aio](https://github.com/panyanyany/muchat-aio)       | panyanyany     | N    | N    | N    | N    | N    | Y      | 2      | -2     | 1     |
 
 ### API  
 
@@ -123,12 +132,13 @@ Status: 最近更新时间 2023-06-30 ， 距离当前时间每多1天多扣0.1
 
 ### 客户端
 
-| 项目                                                         | MAC  | WIN  | IOS  | ANDRIOD | 开源 |
-| ------------------------------------------------------------ | ---- | ---- | ---- | ------- | ---- |
-| [AMA](https://bytemyth.com/zh-CN)                            | Y    | Y    | Y    | Y       | ？   |
-| [lpdswing/GPTFusion](lpdswing/GPTFusion)                     | Y    | Y    | N    | N       | Y    |
-| [1595901624/gpt-aggregated-edition](1595901624/gpt-aggregated-edition) | Y    | Y    | N    | N       | Y    |
-| [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)    | Y    | Y    | N    | N       | Y    |
+| 项目                                                         | author     | MAC  | WIN  | IOS  | ANDRIOD | 开源 |
+| ------------------------------------------------------------ | ---------- | ---- | ---- | ---- | ------- | ---- |
+| [AMA](https://bytemyth.com/zh-CN)                            |            | Y    | Y    | Y    | Y       | ？   |
+| [GPTFusion](lpdswing/GPTFusion)                              | lpdswing   | Y    | Y    | N    | N       | Y    |
+| [gpt-aggregated-edition](1595901624/gpt-aggregated-edition)  | 1595901624 | Y    | Y    | N    | N       | Y    |
+| [chatbox](https://github.com/Bin-Huang/chatbox)              | Bin-Huang  | Y    | Y    | N    | N       | Y    |
+| [chatgpt_android](https://github.com/jinmiao/chatgpt_android) | jinmiao    | N    | N    | N    | Y       | Y    |
 
 ### 浏览器插件
 
