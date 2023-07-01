@@ -94,9 +94,10 @@ Status: 最近更新时间 2023-06-30 ， 距离当前时间每多1天多扣0.1
 
 ### 浏览器插件
 
-| 项目                                       | Chrome | Edge | SAFARI | FIREFOX | MOBILE | 鸿蒙 |
-| ------------------------------------------ | ------ | ---- | ------ | ------- | ------ | ---- |
-| [xcanwin/KeepChatGPT](xcanwin/KeepChatGPT) | Y      | Y    | Y      | Y       | Y      | Y    |
+| 项目                                                         | Chrome | Edge | SAFARI | FIREFOX | MOBILE | 鸿蒙 |
+| ------------------------------------------------------------ | ------ | ---- | ------ | ------- | ------ | ---- |
+| [xcanwin/KeepChatGPT](xcanwin/KeepChatGPT)                   | Y      | Y    | Y      | Y       | Y      | Y    |
+| [webpilot-ai/Webpilot](https://github.com/webpilot-ai/Webpilot) | Y      | Y    |        |         |        |      |
 
 ### 其他链接
 
