@@ -46,6 +46,7 @@
 - 知(韭)识(菜)星球列表
 - AI公众号列表
 - 国产AI清单
+- [支付收款渠道](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E6%94%AF%E4%BB%98%E6%94%B6%E6%AC%BE%E6%B8%A0%E9%81%93.md)
 - [号贩子清单](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E5%8F%B7%E8%B4%A9%E5%AD%90.md)
 
 
