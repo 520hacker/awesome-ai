@@ -1,12 +1,19 @@
 #  可离线解决方案
 
+为什么现在国产AI 突然冒出来这么多? 原因很简单，开源项目，这里推荐一下APPLE的M2 Ultra顶配，192G内存、显存共用；多数大模型都能跑的动了。
 
+## GLM
 
-## 列表
+| 项目                                                  | 作者  | 说明                                                         |
+| ----------------------------------------------------- | ----- | ------------------------------------------------------------ |
+| [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)     | THUDM | ChatGLM-6B: An Open Bilingual Dialogue Language Model        |
+| [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B) | THUDM | Chinese and English multimodal conversational language model |
+| [GLM-130B](https://github.com/THUDM/GLM-130B)         | THUDM | GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)    |
+
+## 其他
 
 | 项目                                                  | 作者      | 说明                                                         |
 | ----------------------------------------------------- | --------- | ------------------------------------------------------------ |
 | [privateGPT](https://github.com/imartinez/privateGPT) | imartinez | 这个项目提供了一个私人的GPT（生成式预训练模型）解决方案，可以在考虑数据安全、隐私保护或断网情况下与GPT和文档进行交互。它为用户提供了一个可靠且安全的方式来使用GPT模型，无论是用于个人用途还是商业应用。 |
 | [LocalAI](https://github.com/go-skynet/LocalAI)       | go-skynet | 这个用Go编写的项目是一个自托管、社区驱动的简单本地OpenAI兼容API。它可以在使用消费级硬件的CPU上作为OpenAI的替代品运行，支持ggml兼容模型，例如：LLaMA、alpaca、gpt4all、vicuna、koala、gpt4all-j、cerebras. |
-|                                                       |           |                                                              |
 
