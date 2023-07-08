@@ -12,8 +12,9 @@
 
 ## 其他
 
-| 项目                                                  | 作者      | 说明                                                         |
-| ----------------------------------------------------- | --------- | ------------------------------------------------------------ |
-| [privateGPT](https://github.com/imartinez/privateGPT) | imartinez | 这个项目提供了一个私人的GPT（生成式预训练模型）解决方案，可以在考虑数据安全、隐私保护或断网情况下与GPT和文档进行交互。它为用户提供了一个可靠且安全的方式来使用GPT模型，无论是用于个人用途还是商业应用。 |
-| [LocalAI](https://github.com/go-skynet/LocalAI)       | go-skynet | 这个用Go编写的项目是一个自托管、社区驱动的简单本地OpenAI兼容API。它可以在使用消费级硬件的CPU上作为OpenAI的替代品运行，支持ggml兼容模型，例如：LLaMA、alpaca、gpt4all、vicuna、koala、gpt4all-j、cerebras. |
+| 项目                                                    | 作者      | 说明                                                         |
+| ------------------------------------------------------- | --------- | ------------------------------------------------------------ |
+| [privateGPT](https://github.com/imartinez/privateGPT)   | imartinez | 这个项目提供了一个私人的GPT（生成式预训练模型）解决方案，可以在考虑数据安全、隐私保护或断网情况下与GPT和文档进行交互。它为用户提供了一个可靠且安全的方式来使用GPT模型，无论是用于个人用途还是商业应用。 |
+| [LocalAI](https://github.com/go-skynet/LocalAI)         | go-skynet | 这个用Go编写的项目是一个自托管、社区驱动的简单本地OpenAI兼容API。它可以在使用消费级硬件的CPU上作为OpenAI的替代品运行，支持ggml兼容模型，例如：LLaMA、alpaca、gpt4all、vicuna、koala、gpt4all-j、cerebras. |
+| [RWKV Runner](https://github.com/josStorer/RWKV-Runner) | josStorer | 本项目旨在消除大语言模型的使用门槛，全自动为你处理一切，你只需要一个仅仅几MB的可执行程序。此外本项目提供了与OpenAI API兼容的接口，这意味着一切ChatGPT客户端都是RWKV客户端。 |
 
