@@ -4,11 +4,12 @@
 
 ## GLM
 
-| 项目                                                  | 作者  | 说明                                                         |
-| ----------------------------------------------------- | ----- | ------------------------------------------------------------ |
-| [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)     | THUDM | ChatGLM-6B: An Open Bilingual Dialogue Language Model        |
-| [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B) | THUDM | Chinese and English multimodal conversational language model |
-| [GLM-130B](https://github.com/THUDM/GLM-130B)         | THUDM | GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)    |
+| 项目                                                         | 作者         | 说明                                                         |
+| ------------------------------------------------------------ | ------------ | ------------------------------------------------------------ |
+| [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)            | THUDM        | ChatGLM-6B: An Open Bilingual Dialogue Language Model        |
+| [VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B)        | THUDM        | Chinese and English multimodal conversational language model |
+| [GLM-130B](https://github.com/THUDM/GLM-130B)                | THUDM        | GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)    |
+| [Baichuan-13B](https://github.com/Baichuan-inc/Baichuan-13B) | Baichuan-inc | 搜狗创始人王小川在微博上表示，“中国需要自己的 OpenAI”。作为中国企业家，他的梦想离现实越来越近。他的初创公司百川智能今天推出了其下一代大语言模型 **Baichuan-13B** |
 
 ## 其他
 
