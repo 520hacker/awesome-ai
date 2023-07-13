@@ -58,17 +58,17 @@
 
 ## 内容导览
 
-- [开源AI转发套壳应用列表](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E5%BC%80%E6%BA%90AI%E8%BD%AC%E5%8F%91%E5%A5%97%E5%A3%B3%E5%BA%94%E7%94%A8%E5%AF%B9%E6%AF%94.md)  
-- [开源AI转发套壳转发微信QQ等列表](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E5%BE%AE%E4%BF%A1ChatGPT.md)
-- [开源AI转发套壳应用部署列表](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2.md)
+- [开源AI转发套壳应用列表](https://github.com/520hacker/awesome-ai/blob/main/%E5%BC%80%E6%BA%90AI%E8%BD%AC%E5%8F%91%E5%A5%97%E5%A3%B3%E5%BA%94%E7%94%A8%E5%AF%B9%E6%AF%94.md)  
+- [开源AI转发套壳转发微信QQ等列表](https://github.com/520hacker/awesome-ai/blob/main/%E5%BE%AE%E4%BF%A1ChatGPT.md)
+- [开源AI转发套壳应用部署列表](https://github.com/520hacker/awesome-ai/blob/main/%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E9%83%A8%E7%BD%B2.md)
 - 闭源AI转发套壳应用
 - 知(韭)识(菜)星球列表
 - AI公众号列表
 - 国产AI清单
-- [绘图平台汇总](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E7%BB%98%E7%94%BB%E7%9A%84%E5%B9%B3%E5%8F%B0.md)
-- [可离线AI解决方案](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E5%8F%AF%E7%A6%BB%E7%BA%BFAI%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
-- [支付收款渠道](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E6%94%AF%E4%BB%98%E6%94%B6%E6%AC%BE%E6%B8%A0%E9%81%93.md)
-- [号贩子清单](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/%E5%8F%B7%E8%B4%A9%E5%AD%90.md)
+- [绘图平台汇总](https://github.com/520hacker/awesome-ai/blob/main/%E7%BB%98%E7%94%BB%E7%9A%84%E5%B9%B3%E5%8F%B0.md)
+- [可离线AI解决方案](https://github.com/520hacker/awesome-ai/blob/main/%E5%8F%AF%E7%A6%BB%E7%BA%BFAI%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+- [支付收款渠道](https://github.com/520hacker/awesome-ai/blob/main/%E6%94%AF%E4%BB%98%E6%94%B6%E6%AC%BE%E6%B8%A0%E9%81%93.md)
+- [号贩子清单](https://github.com/520hacker/awesome-ai/blob/main/%E5%8F%B7%E8%B4%A9%E5%AD%90.md)
 
 
 
@@ -84,8 +84,8 @@
 
 #### 其他链接
 
-- [系统部署 | AIChat专业版一键部署教程](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/AIChatWeb/%E7%B3%BB%E7%BB%9F%E9%83%A8%E7%BD%B2%20AIChat%E4%B8%93%E4%B8%9A%E7%89%88%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B.md)
-- [系统部署 | AIChat专业版部署到群晖](https://github.com/520hacker/AIChatAdmin-Doc/blob/main/AIChatWeb/%E7%B3%BB%E7%BB%9F%E9%83%A8%E7%BD%B2%20AIChat%E4%B8%93%E4%B8%9A%E7%89%88%E9%83%A8%E7%BD%B2%E5%88%B0%E7%BE%A4%E6%99%96.md)
+- [系统部署 | AIChat专业版一键部署教程](https://github.com/520hacker/awesome-ai/blob/main/AIChatWeb/%E7%B3%BB%E7%BB%9F%E9%83%A8%E7%BD%B2%20AIChat%E4%B8%93%E4%B8%9A%E7%89%88%E4%B8%80%E9%94%AE%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B.md)
+- [系统部署 | AIChat专业版部署到群晖](https://github.com/520hacker/awesome-ai/blob/main/AIChatWeb/%E7%B3%BB%E7%BB%9F%E9%83%A8%E7%BD%B2%20AIChat%E4%B8%93%E4%B8%9A%E7%89%88%E9%83%A8%E7%BD%B2%E5%88%B0%E7%BE%A4%E6%99%96.md)
 
 
 
