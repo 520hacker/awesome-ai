@@ -77,6 +77,7 @@
 ### 参考信息
 
 - [Chatgpt商业版汇总及变现](https://github.com/garyvalue/chatgpt-business)
+- [疯语咒- AI实操](https://worshipsme.notion.site/9a617c93fb364f7c8be718869d9da04c?v=1cdc8e1086724468bb0d7aea1ddf96fb)
 
 
 
