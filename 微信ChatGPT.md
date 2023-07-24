@@ -30,3 +30,7 @@
 | [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) | fuergaosi233 | N    | Y      | N    | N        | N    | Y      | N    |
 | [chat_qq](https://github.com/morningos/chat_qq)              | morningos    | N    | N      | N    | N        | Y    | N      | N    |
 
+# 核心
+
+- https://www.yuque.com/qyxns/fu3bot/help https://github.com/WangPney/java-wechat-grpc-local
+- https://github.com/wechaty/wechaty https://wechaty.js.org/blog/
