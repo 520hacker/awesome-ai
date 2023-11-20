@@ -29,6 +29,12 @@ List
 | https://api.dawu.world/                                     |                                   |             |
 | http://api.youzhi.chat/                                     |                                   |             |
 | https://api.dk666.cc                                        |                                   |             |
+| https://40.chatgptsb.net/                                   |                                   | 4R1D        |
+| https://35.chatgptsb.net/                                   |                                   | 1R1D        |
+| https://api.chatgptplus.cn/                                 |                                   | 0.6R1D      |
+| http://api.wgpt.in/                                         |                                   | 2R5D        |
+| https://www.wushuangai.com/                                 |                                   | 0.8R1D      |
+| https://api.chatgpt-3.vip/                                  |                                   | 0.6R1D      |
 
 
 
