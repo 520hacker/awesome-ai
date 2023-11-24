@@ -35,6 +35,8 @@ List
 | http://api.wgpt.in/                                         |                                   | 2R5D        |
 | https://www.wushuangai.com/                                 |                                   | 0.8R1D      |
 | https://api.chatgpt-3.vip/                                  |                                   | 0.6R1D      |
+| https://api.keya.pw/                                        |                                   | 8R10D       |
+| https://gpt.cduckfuck.shop                                  | free3.5                           |             |
 
 
 
