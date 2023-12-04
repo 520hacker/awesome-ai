@@ -37,6 +37,7 @@ List
 | https://api.chatgpt-3.vip/                                  |                                   | 0.6R1D      |
 | https://api.keya.pw/                                        |                                   | 8R10D       |
 | https://gpt.cduckfuck.shop                                  | free3.5                           |             |
+| https://chatapi.onechat.fun/                                |                                   | 2R1D        |
 
 
 
