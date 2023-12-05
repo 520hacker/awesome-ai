@@ -38,6 +38,9 @@ List
 | https://api.keya.pw/                                        |                                   | 8R10D       |
 | https://gpt.cduckfuck.shop                                  | free3.5                           |             |
 | https://chatapi.onechat.fun/                                |                                   | 2R1D        |
+| https://openkey.cloud/                                      |                                   | 0.8R1D      |
+| https://api.xi-ai.cn/                                       |                                   | 5R1D        |
+| https://myapi.mygptlife.com/                                | free3.5                           |             |
 
 
 
