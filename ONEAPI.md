@@ -41,6 +41,16 @@ List
 | https://openkey.cloud/                                      |                                   | 0.8R1D      |
 | https://api.xi-ai.cn/                                       |                                   | 5R1D        |
 | https://myapi.mygptlife.com/                                | free3.5                           |             |
+| https://api.apichat.shop/                                   |                                   |             |
+| https://api.a1r.cc/                                         |                                   |             |
+| https://veygrlhubijv.cloud.sealos.io/                       |                                   |             |
+| https://api2.lovebaby.today/                                |                                   |             |
+| https://free.speedy.works/                                  | free3.5                           |             |
+| https://www.quickapi.work/                                  | http://pay.liulinlin.top/buy/8    | 0.9R1D      |
+| https://api.lqqq.ltd/                                       |                                   | 2R1D        |
+| https://openai.vexapi.com/                                  | https://www.ecyfk.com/            | 2R1D        |
+| https://www.v2bk.com/links                                  | 导航站                            |             |
+| https://www.jiujiuai.life                                   | https://baipiao.one/              | 0.77R1D     |
 
 
 
