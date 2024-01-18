@@ -51,6 +51,13 @@ List
 | https://openai.vexapi.com/                                  | https://www.ecyfk.com/            | 2R1D        |
 | https://www.v2bk.com/links                                  | 导航站                            |             |
 | https://www.jiujiuai.life                                   | https://baipiao.one/              | 0.77R1D     |
+| [**https://one.aiskt.com**](https://one.aiskt.com/)         |                                   | 2R1D        |
+| https://rao2-daili.hf.space/                                |                                   |             |
+| https://one.caifree.com/                                    |                                   |             |
+| https://api.onechat.fun/                                    |                                   |             |
+| https://open.nxai.top/                                      |                                   | 2R1D        |
+| https://oupo.top/                                           |                                   |             |
+| https://ngedlktfticp.cloud.sealos.io                        |                                   | 0.25R1D     |
 
 
 
