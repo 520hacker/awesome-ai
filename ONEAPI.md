@@ -10,14 +10,14 @@ List
 | https://bbs.521.be https://api.akm.pw/                      | 3.5,4                             | 25R10D      |
 | https://nekoapi.com/                                        | 3.5,4                             | 2R1D        |
 | https://api.cscz.top/                                       |                                   |             |
-| http://internaloneapi.bltcy.top/ https://one-api.bltcy.top/ |                                   | 0.9R1D      |
+| http://internaloneapi.bltcy.top/ https://one-api.bltcy.top/ |                                   | 1.2R1D      |
 | https://oneapi.cc/                                          | 3.5,4                             | 15.5R5D     |
 | https://ai-yyds.com/                                        | 3.5,4,32k                         | 36R5D       |
 | https://apiai.cn/                                           | 3.5,4                             | 3R1D        |
 | https://api.gpt4pro.top/ https://api.pro365.top/            | 3.5,4                             | 159R20D     |
 | https://api1.xnidc.cc                                       |                                   |             |
 | https://api.wzunjh.top/                                     |                                   |             |
-| https://api.aitom.cc                                        |                                   | 1.2R1D      |
+| https://api.aitom.cc                                        |                                   | 1R1D        |
 | https://api.protoforever.me/                                |                                   |             |
 | https://api.qaqgpt.com                                      |                                   |             |
 | https://api.ngapi.top/                                      |                                   |             |
@@ -58,6 +58,8 @@ List
 | https://open.nxai.top/                                      |                                   | 2R1D        |
 | https://oupo.top/                                           |                                   |             |
 | https://ngedlktfticp.cloud.sealos.io                        |                                   | 0.25R1D     |
+| https://api.yunai.link/                                     | 1元/刀   gpt3.5 0.5元/刀          |             |
+| https://api1.zhtec.xyz                                      |                                   | 0.8R1D      |
 
 
 
