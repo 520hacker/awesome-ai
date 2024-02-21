@@ -53,13 +53,23 @@ List
 | https://www.jiujiuai.life                                   | https://baipiao.one/              | 0.77R1D     |
 | [**https://one.aiskt.com**](https://one.aiskt.com/)         |                                   | 2R1D        |
 | https://rao2-daili.hf.space/                                |                                   |             |
-| https://one.caifree.com/                                    |                                   |             |
+| https://one.caifree.com/                                    |                                   | 1r1d        |
 | https://api.onechat.fun/                                    |                                   |             |
 | https://open.nxai.top/                                      |                                   | 2R1D        |
 | https://oupo.top/                                           |                                   |             |
 | https://ngedlktfticp.cloud.sealos.io                        |                                   | 0.25R1D     |
 | https://api.yunai.link/                                     | 1元/刀   gpt3.5 0.5元/刀          |             |
 | https://api1.zhtec.xyz                                      |                                   | 0.8R1D      |
+| https://ai.ddlink.asia/                                     | Free $5                           |             |
+| https://daily.w-l-h.xyz/                                    | Free $3                           | 0.6R1D      |
+| https://furry.vsftp.cn/                                     |                                   | 0.8R1D      |
+| https://oneapi.huinong.co/                                  |                                   | 1.45R1D     |
+| https://uu.ci/                                              | Free $100                         |             |
+| https://cn.aiwl.cc/                                         |                                   | 1.5R1D      |
+| https://parnix-api.houtar.eu.org/                           | Free 4                            |             |
+| https://api.b3n.fun/                                        |                                   | 2R1D        |
+| https://allenyy.com/                                        | Free $20                          | 1R1D        |
+| https://yan.loveyan.fun/                                    |                                   |             |
 
 
 

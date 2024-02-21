@@ -23,7 +23,17 @@
 
 #### 致普通访客
 
-- 如果你只是想找一个ChatGPT的免费使用，[这里](https://chat-shared.zhile.io/shared.html)有Z大收集的2000多个免费端口
+- 如果你只是想找一个ChatGPT的免费使用
+  - http://free01.xyz/
+  - https://sharedchat.cn/shared.html 
+  - https://www.laogou717.com/#%E8%B6%A3%E5%91%B3AI
+  - https://chat.caifree.com/#/
+  - https://free.netfly.top/
+  - https://chat.gking.me/
+  - https://niansuhai-chat.hf.space/
+  - https://niansuhai-mixtral.hf.space/ (8x7b)
+  - https://free.xyhelper.com.cn/list
+
 
 ### 开篇
 
